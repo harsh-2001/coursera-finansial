@@ -26,7 +26,7 @@ border: 2PX solid black;
 padding: 5px;
 box-sizing: border-box;
 margin :20px;
-width: 28%;
+width: 98%;
 height:770px;
 background-color: pink; 
 float: left;
@@ -118,5 +118,5 @@ button{
    span{
   	color: yellow;
   }
-  }
+  
   
