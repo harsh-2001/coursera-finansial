@@ -102,9 +102,7 @@ button{
   span{
   	color: yellow;
   }
-  .main{
-    display: flex;
-  }
+  
 
 }
 @media(min-width: 992px){
@@ -116,9 +114,7 @@ button{
    .nav-item{
       display: none;
       }
-   .main{
-   	 display: flex;
-   }
+   
    span{
   	color: yellow;
   }
