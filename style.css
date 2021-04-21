@@ -82,7 +82,7 @@ border: 2PX solid black;
 padding: 5px;
 box-sizing: border-box;
 margin :10px;
-width: 99%;
+width: 98%;
 height:100%;
 background-color: pink; 
 float: left;
@@ -102,9 +102,6 @@ button{
   span{
   	color: yellow;
   }
-  
-
-}
 @media(min-width: 992px){
   .navbar-toggler .navbar-toggler-right{
     display: none;}
